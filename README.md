@@ -1,7 +1,5 @@
 # Udagram REST API
-user honeudagram
-key id AKIARY23PY3AIKNKO7GF
-sk r7epO822yNx6eN3neJCHj1AotGvWjPeRHZuJWam3
+
 "@types/node": "^11.15.42",
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
